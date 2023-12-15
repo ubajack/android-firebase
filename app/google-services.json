@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "22276924294",
+    "project_id": "fireauth-66f95",
+    "storage_bucket": "fireauth-66f95.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22276924294:android:5ad300d29aca13ae89c207",
+        "android_client_info": {
+          "package_name": "com.ubalia.firebase.authentication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6SX25nEoHmCCJRVWUK5FtcJ5YGlPkiXU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
